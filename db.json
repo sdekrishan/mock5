@@ -36,12 +36,6 @@
   ],
   "users": [
     {
-      "username": "krishan",
-      "avatar": "https://images.unsplash.com/photo-1622017634176-8da750043c54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGltYWdlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=2000&q=60",
-      "email": "kk@gmail.com",
-      "password": "1111"
-    },
-    {
       "id": 1676096870516,
       "name": "ram",
       "avatar": "https://images.unsplash.com/photo-1622017634176-8da750043c54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGltYWdlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=2000&q=60",
